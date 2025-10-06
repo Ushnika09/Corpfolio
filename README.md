@@ -85,7 +85,7 @@ corpfolio/
 1️⃣ Clone the Repository
 ```bash
 
-git clone https://github.com/your-username/corpfolio.git
+git clone [https://github.com/your-username/corpfolio.git](https://github.com/Ushnika09/Corpfolio.git)
 cd corpfolio
 ```
 2️⃣ Install Dependencies
