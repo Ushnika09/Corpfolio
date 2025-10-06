@@ -8,6 +8,10 @@ Built with **React**, **Tailwind CSS**, and ❤️.
 ## 🌐 Live Demo
 👉 https://corpfoilo.netlify.app/
 
+## 🎬 Video Walkthrough
+Check out a short 2–3 minute walkthrough of **Corpfolio**, demonstrating the project structure, functionality, and key decisions:  
+🎥 [Watch the video on Loom](https://www.loom.com/share/6197180d68fe4f669756c03ddeaed715?sid=cb789df6-f025-454f-ad30-61d324120f4f)
+
 ---
 
 ## 🧠 Overview
