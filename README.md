@@ -6,7 +6,7 @@ Built with **React**, **Tailwind CSS**, and ❤️.
 ---
 
 ## 🌐 Live Demo
-👉 [https://corpfoilo.netlify.app/](https://corpfoilo.netlify.app/)
+👉 https://corpfoilo.netlify.app/
 
 ---
 
